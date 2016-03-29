@@ -1,0 +1,23 @@
+{
+  "name": "cmsis-core-stm32f103xb",
+  "version": "0.0.1",
+  "description": "CMSIS Core module for stm32f103xb microcontrollers",
+  "keywords": [
+    "mbed"
+  ],
+  "author": "Max Peng <max.peng1768@gmail.com>",
+  "homepage": "https://github.com/L3if3rikson/cmsis-core-stm32f103xb.git",
+  "licenses": [
+    {
+      "url": "https://spdx.org/licenses/BSD-3-Clause",
+      "type": "BSD-3-Clause"
+    }
+  ],
+  "extraIncludes": [
+    "cmsis-core-stm32f103xb"
+  ],
+  "dependencies": {
+    "cmsis-core": "*"
+  },
+  "targetDependencies": {}
+}
